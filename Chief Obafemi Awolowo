@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chief Obafemi Awolowo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            padding: 2% 10%
+        }
+
+        img {
+            width: 200px;
+            height: 200px;
+        }
+        figure{
+            background-color: azure;
+            width: 80%;
+            padding: 0 30%;
+        }
+        figcaption{
+            font-size: 1em;
+            font-weight: 300;
+        }ul{
+            background-color: #80808069;
+        }
+        ul li{
+            font-size: 1.3em;
+            line-height: 1.5;
+        }
+        h2{
+            padding: 1% 20% 2%;
+            font-size: 2em;
+        }
+
+        blockquote,
+        p{
+            margin: 2% 0;
+            font-size: 1.5em;
+            line-height: 1.3;
+            font-style: italic;
+            background-color: #68777977;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <figure>
+            <img src="Obafemi_Awolowo.jpg" alt="Obafemi Awolowo">
+            <figcaption>
+                Late Chief Obafemi Awolowo
+            </figcaption>
+        </figure>
+        <h2>Here is a time line of Chief Awolowo's life:</h2>
+        <ul>
+            <li><strong> 1909  </strong> - Born in Ikenne, in present-day Ogun State of Nigeria</li>
+            <li><strong> 1927  </strong> - Enrolled at the University of London as an External Student and
+                graduated with the degree of Bachelor of Commerce (Hons.)</li>
+            <li><strong> 1944  </strong> - Left his home country and went to the UK to study law at the University
+                of London </li>
+            <li><strong> 1945  </strong> - Founded a Political Organisation called "Yoruba National Movement (Egbé
+                Ọmọ Odùduwà)".</li>
+            <li><strong> 1946  </strong> - Called to the Bar by the Honorable Society of the Inner Temple</li>
+            <li><strong> 1947  </strong> - Wrote the "Path to Nigerian Freedom", the first systematic federalist
+                manifesto by a Nigerian politician</li>
+            <li><strong> 1949  </strong> - Founded the Nigerian Tribune, a private Nigerian newspaper</li>
+            <li><strong> 1950  </strong> - Founded a Political Party, the Action Group (Egbe Afenifere) as part of
+                the Social Programme for the emancipation of the Yorubas.</li>
+            <li><strong> 1952  </strong> - Became the first Leader of Government Business and Minister of Local
+                Government and Finance</li>
+            <li><strong> 1954  </strong> - Became the first Premier of the Western Region, and introuced a federal
+                constitution, among other initiatives, reforming the country's educational, medical, agricultural and
+                social services.</li>
+            <li><strong> 1956  </strong> - His Party won the elections again and he retained his position as
+                Premier.</li>
+            <li><strong> 1959  </strong> - Established the first television service in Africa, and the Oduduwa
+                Group.</li>
+            <li><strong> 1960  </strong> - Played a key role toward's Nigeria's independence. Wrote Awo - an
+                Autobiography. Abandoned his role as the Western Region Premier.</li>
+            <li><strong> 1963  </strong> - Imprisoned under the accusations of sedition</li>
+            <li><strong> 1966  </strong> - Released from prison and assumed the role as Minister of Finance. Also
+                wrote the book Thoughts on the Nigerian Constitution.</li>
+            <li><strong> 1968  </strong> - Awarded the Grand Band of the Order of the Star of Africa by the
+                Republic of Liberia. Also wrote the book, The People's Republic.</li>
+            <li><strong> 1970  </strong> - Wrote the book, The Strategy and Tactics of the People's Republic</li>
+            <li><strong> 1972  </strong> - Awarded the Grand-Officer de l’Ordre National du Lion, Republique du
+                Senegal</li>
+            <li><strong> 1977  </strong> - Wrote the book, The Problems of Africa: The need for ideological
+                reappraisal</li>
+            <li><strong> 1978  </strong> - Became the leader of the Unity Party of Nigeria when the 12-year ban on
+                political activity was lifted.</li>
+            <li><strong> 1979  </strong> - Ran for president but was defeated by Shehu Shagari</li>
+            <li><strong> 1982  </strong> - Awarded the Grand Commander of the Order of the Federal Republic (GCFR)
+                in recognition of his invaluable service to Nigeria</li>
+            <li><strong> 1983  </strong> - Ran for president again, and again defeated by Shehu Shagari. Retired
+                from politics following a ban of several political parties, including his.</li>
+            <li><strong> 1985  </strong> - Wrote the book, Adventures in Power - Book 1: My March Through Prison
+            </li>
+            <li><strong> 1987 </strong> - Died at age 78. In recognition of his exemplary services, the
+                University of Ife was renamed after him to, Obafemi Awolowo University</li>
+        </ul>
+        <blockquote>After rain comes sunshine; After darkness comes the glorious dawn. There is no sorrow without its alloy of
+            joy; there is no joy without its admixture of sorrow. Behind the ugly terrible mask of misfortune lies the
+            beautiful soothing countenance of prosperity. So, tear the mask!</blockquote>
+        <p>-- Obafemi Awolowo</p>
+    </main>
+</body>
+
+</html>
